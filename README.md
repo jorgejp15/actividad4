@@ -15,7 +15,7 @@ Diseñar y desarrollar un sistema de gestión que optimice la programación de e
 - Desarrollar el sistema con las funcionalidades de programación de entrevistas, control de stock y la creación de la base de datos.
 - Implementar y capacitar al personal para el uso correcto del sistema.
 ## 4. Diagrama Ishikawa
-![DIAGRAMA ISHIKAWA](https://drive.google.com/uc?export=view&id=1DGzy9CSdSvpuI9qJXGx29h7fBDCw6G_5)
+![DIAGRAMA ISHIKAWA](https://live.staticflickr.com/65535/53925695681_7dbc502528_o.png)
 
 ## 5. Metodología de Desarrollo
 
@@ -60,10 +60,10 @@ SCRUM es un enfoque iterativo e incremental que ayuda a los equipos a trabajar e
   - José Alfredo Medina Putare
   
 ## 7. Historias de usuarios
-![Imagen 1](https://drive.google.com/uc?export=view&id=1DlYCTO7k-p3bVlaJWRVIoUnUYIzblktK)
-![Imagen 2](https://drive.google.com/uc?export=view&id=1PrWqoBHabLlDMSyuMd6HD3CpKVdCuLwn)
-![Imagen 3](https://drive.google.com/uc?export=view&id=15AeNevnocUmEF7L3A5X_bFOzB1lhuXuc)
-![Imagen 4](https://drive.google.com/uc?export=view&id=1QSlOnKOQUItm5M9DltoDTpRa9tcI1GPw)
+![Imagen 1](https://live.staticflickr.com/65535/53924807472_5ae5964e89_o.png)
+![Imagen 2](https://live.staticflickr.com/65535/53926154520_8b58217a00_o.png)
+![Imagen 3](https://live.staticflickr.com/65535/53925949963_c9f5397622_o.png)
+![Imagen 4](https://live.staticflickr.com/65535/53926154515_b9c40d3a08_o.png)
 
 ## 8. Prototipo
 
